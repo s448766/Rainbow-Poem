@@ -7,4 +7,8 @@ Green
 Indigo
 Yellow
 Red
+
 These are the colours of the rainbow.
+And the unicorn eats grass.
+Pony
+Banana
