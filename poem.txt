@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn and the Pony
+The Rainbow
 
 Violet
 Purple
@@ -10,7 +10,10 @@ Indigo
 Yellow
 Red
 Crimson
+
 These are the colours of the rainbow.
-And the unicorn.
-Pony
-Banana
+
+And the beautiful pony.
+And the unicorn eats grass.
+The sun is yellow. 
+I like turtles.
